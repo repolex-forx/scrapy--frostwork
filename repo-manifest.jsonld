@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapy/frostwork/commit/d1e2d5c27f4b2664a923e37bc5e0fdf53fd42c02",
       "git:hexsha": "d1e2d5c27f4b2664a923e37bc5e0fdf53fd42c02",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:46:19.325910+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/frostwork/commit/5217b574e6190627b93f6d1f09b8568d6fa8f4ed",
