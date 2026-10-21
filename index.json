@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "frostwork",
+  "versions": [
+    {
+      "commit": "d1e2d5c27f4b2664a923e37bc5e0fdf53fd42c02",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:46:19.326423+00:00"
+    }
+  ]
+}
